@@ -13,9 +13,9 @@ Clean Xcode caches, analyze CocoaPods updates, explore git activity, track tasks
 💡 Built with swift-argument-parser
 
 ## 📥 Installation
-git clone https://github.com/freemacson/SwiftCLI
-cd swiftcli
-make install
+- git clone https://github.com/freemacson/SwiftCLI
+- cd swiftcli
+- make install
 
 
 This will build swiftcli in release mode and install it into /usr/local/bin/swiftcli.
